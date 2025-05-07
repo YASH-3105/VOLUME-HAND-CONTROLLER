@@ -7,7 +7,7 @@ This project uses your webcam to track your hand using **MediaPipe** and adjust 
 
 ## 📸 Demo
 
-> _(Insert a screenshot or screen recording here, if available)_
+> [▶️ Click here to watch the demo](demo.mp4)
 
 ---
 
